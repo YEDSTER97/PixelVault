@@ -1,2 +1,3 @@
-# PixelVault
-PixelVault is a Java-based file encryption and decryption tool built with AES (CBC mode) and PBKDF2 for secure password-based key derivation. It features a modern Swing GUI with support for file previews, theming, and progress feedback, designed for both security and ease of use.
+PixelVault is a Java-based file encryption and decryption tool built with AES (CBC mode) and PBKDF2 for secure password-based key derivation.
+It features a modern Swing GUI with support for file previews, theming, and progress feedback — designed for both security and ease of use.
+Built by Team Super_Devs as an academic project.
