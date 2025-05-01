@@ -3,5 +3,16 @@ It features a modern Swing GUI with support for file previews, theming, and prog
 Built by Team Super_Devs as an academic project.
 
 *************************************************************************************************************************************************
-Photos of UI and a sample picture:
+Photos of UI and sample pictures:
 
+![Preview](https://github.com/YEDSTER97/PixelVault/blob/main/images/Dog.jpg)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+![UI Demo](https://github.com/YEDSTER97/PixelVault/blob/main/images/UI.jpg)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+![UI Demo](https://github.com/YEDSTER97/PixelVault/blob/main/images/encrypt.jpg)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+![UI Demo](https://github.com/YEDSTER97/PixelVault/blob/main/images/decrypt.jpg)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+![Preview](https://github.com/YEDSTER97/PixelVault/blob/main/images/Dog.png.enc)
+
+*************************************************************************************************************************************************
